@@ -43,8 +43,8 @@ The output of the logistic function is not symmetric around zero. So the output 
 ## Program:
 ```
 Program to implement the sigmoid activation function in a feed forward ANN.
-Developed by: U.VIVEK KRISHNA
-RegisterNumber: 212219040180
+Developed by: AJAY A
+RegisterNumber: 212219040006
 
 ```
 
